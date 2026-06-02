@@ -1,0 +1,57 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "M:\\00000000000000\u05DE\u05D7\u05E9\u05D1\u05D9\u05DD \u05DE\u05EA\u05D5\u05D2\u05D1\u05E8 \u05E9\u05E0\u05D4 \u05D1\\\u05D0\u05D9\u05E9\u05D9\\\u05D9\u05D4\u05D5\u05D3\u05D9\u05EA\\chat\\YudaChat\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8DFC0C3B-F28C-4494-A4B6-22B55CFC961A}|YudaChat\\YudaChat.csproj|m:\\00000000000000\u05DE\u05D7\u05E9\u05D1\u05D9\u05DD \u05DE\u05EA\u05D5\u05D2\u05D1\u05E8 \u05E9\u05E0\u05D4 \u05D1\\\u05D0\u05D9\u05E9\u05D9\\\u05D9\u05D4\u05D5\u05D3\u05D9\u05EA\\chat\\yudachat\\yudachat\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DFC0C3B-F28C-4494-A4B6-22B55CFC961A}|YudaChat\\YudaChat.csproj|solutionrelative:yudachat\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DFC0C3B-F28C-4494-A4B6-22B55CFC961A}|YudaChat\\YudaChat.csproj|m:\\00000000000000\u05DE\u05D7\u05E9\u05D1\u05D9\u05DD \u05DE\u05EA\u05D5\u05D2\u05D1\u05E8 \u05E9\u05E0\u05D4 \u05D1\\\u05D0\u05D9\u05E9\u05D9\\\u05D9\u05D4\u05D5\u05D3\u05D9\u05EA\\chat\\yudachat\\yudachat\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8DFC0C3B-F28C-4494-A4B6-22B55CFC961A}|YudaChat\\YudaChat.csproj|solutionrelative:yudachat\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "M:\\00000000000000\u05DE\u05D7\u05E9\u05D1\u05D9\u05DD \u05DE\u05EA\u05D5\u05D2\u05D1\u05E8 \u05E9\u05E0\u05D4 \u05D1\\\u05D0\u05D9\u05E9\u05D9\\\u05D9\u05D4\u05D5\u05D3\u05D9\u05EA\\chat\\YudaChat\\YudaChat\\Form1.cs",
+              "RelativeDocumentMoniker": "YudaChat\\Form1.cs",
+              "ToolTip": "M:\\00000000000000\u05DE\u05D7\u05E9\u05D1\u05D9\u05DD \u05DE\u05EA\u05D5\u05D2\u05D1\u05E8 \u05E9\u05E0\u05D4 \u05D1\\\u05D0\u05D9\u05E9\u05D9\\\u05D9\u05D4\u05D5\u05D3\u05D9\u05EA\\chat\\YudaChat\\YudaChat\\Form1.cs*",
+              "RelativeToolTip": "YudaChat\\Form1.cs*",
+              "ViewState": "AgIAAEkAAAAAAAAAAAA0wEcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T19:51:45.945Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "M:\\00000000000000\u05DE\u05D7\u05E9\u05D1\u05D9\u05DD \u05DE\u05EA\u05D5\u05D2\u05D1\u05E8 \u05E9\u05E0\u05D4 \u05D1\\\u05D0\u05D9\u05E9\u05D9\\\u05D9\u05D4\u05D5\u05D3\u05D9\u05EA\\chat\\YudaChat\\YudaChat\\Form1.cs",
+              "RelativeDocumentMoniker": "YudaChat\\Form1.cs",
+              "ToolTip": "M:\\00000000000000\u05DE\u05D7\u05E9\u05D1\u05D9\u05DD \u05DE\u05EA\u05D5\u05D2\u05D1\u05E8 \u05E9\u05E0\u05D4 \u05D1\\\u05D0\u05D9\u05E9\u05D9\\\u05D9\u05D4\u05D5\u05D3\u05D9\u05EA\\chat\\YudaChat\\YudaChat\\Form1.cs [Design]*",
+              "RelativeToolTip": "YudaChat\\Form1.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T19:36:40.213Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
